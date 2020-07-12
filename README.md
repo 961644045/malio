@@ -5,4 +5,5 @@ wget https://github.com/961644045/malio/raw/master/install.sh;chmod +x install.s
 ```
 
 一键去版权：
+
 ```wget -L  https://github.com/961644045/malio/raw/master/maliobanquan.sh;chmod +x maliobanquan.sh;bash maliobanquan.sh```
